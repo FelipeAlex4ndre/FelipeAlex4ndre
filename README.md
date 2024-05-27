@@ -1,6 +1,6 @@
 ### Seja bem-vindo(a) ao meu perfil! ✌
 
-Prazer! Me chamo **Felipe Santos**!
+Prazer! Me chamo **Felipe Alexandre**!
 
 - Estou estudando e desenvolvendo **JS, HTML & CSS**;
 - Estou utilizando este espaço para me **organizar** e **compartihar** meus projetos desenvolvidos durante o aprendizado.
