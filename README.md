@@ -2,7 +2,7 @@
 
 Prazer! Me chamo **Felipe Alexandre**!
 
-- Atualmente estou estudando e desenvolvendo **JS, HTML & CSS**; **o basiquinho***
+- Atualmente estou estudando e desenvolvendo **JS, HTML & CSS**;
 - Estou utilizando este espaço para me **organizar** e **compartihar** meus projetos desenvolvidos durante o aprendizado.
 
 ### Para entrar em contato comigo ↓
